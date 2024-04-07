@@ -1,0 +1,12 @@
+
+testCapamount=false
+testDate=false
+testDesc=true
+testName=false
+testPremium=true
+testProviderId=false
+testMemberId=false
+testHopsname=false
+testPolicyId=false
+testBenefitId=false
+testTenure=true
